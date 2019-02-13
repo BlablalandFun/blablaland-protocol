@@ -5,8 +5,6 @@ Ces classes servent à encoder et à décoder les paquets communiqués entre le 
 Pour le moment, ces classes sont disponibles en:
 - Python3
 
-Elles sont libres de droits.
-
 Utilisation
 --
 
